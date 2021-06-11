@@ -1,0 +1,15 @@
+* C:\Users\Sam S. AME\Documents\LTspiceXVII\Bassman_Thev_ports.asc
+Va 2 1 V
+Vb 5 4 V
+Vc 6 1 V
+Vd 8 7 V
+Ve 9 7 V
+Vf 10 3 V
+Ra 2 3 Ra
+Rb 5 3 Rb
+Rc 6 4 Rc
+Rd 8 4 Rd
+Re 9 1 Re
+Rf 10 7 Rf
+.backanno
+.end
